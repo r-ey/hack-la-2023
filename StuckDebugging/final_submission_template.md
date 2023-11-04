@@ -1,7 +1,7 @@
 # I Hacked-LA-2023
 
-- Felisa Novelyn
 - Reynaldi Aditama
+- Felisa Novelyn
 - Min Li Wang
 
 # This Project
