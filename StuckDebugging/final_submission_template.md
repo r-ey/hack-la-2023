@@ -6,7 +6,7 @@
 
 # This Project
 https://docs.google.com/presentation/d/1kleQuZhMDo_-5tTOpqxHstMhDC8TVXxfCfJ_jg_iSCE/edit?pli=1#slide=id.g280512c32b3_2_75 
-This project determine whether current modules on canvas is efficient and whether it could increase their grade.
+Edu Metrics determine whether current modules on canvas is efficient and whether it could increase their grade.
 
 # Reflection
 ## Approach
