@@ -2,7 +2,9 @@
 - "submit" your work by creating a pull request as detailed in the README.md.
 
 List your group members:
-> Your Group Members
+- Felisa Novelyn
+- Min Li Wang
+- Reynaldi Aditama
 
 # This Project
 > Link to presentation: 
